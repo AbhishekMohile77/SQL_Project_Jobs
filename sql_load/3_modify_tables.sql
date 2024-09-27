@@ -1,3 +1,5 @@
+-- Copying the data from the csv files into tables after creating the tables
+
 COPY company_dim
 FROM 'C:\Abhishek\resume,projects\SQL_Project_Jobs\csv_files\company_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
