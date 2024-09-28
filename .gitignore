@@ -2,3 +2,11 @@
 /csv_files
 /__MACOSX
 extra/sample query chart.csv
+query_output_csvs/Q0 sample job counts.csv
+query_output_csvs/Q1 top pay jobs.csv
+query_output_csvs/Q2 top job skills.csv
+query_output_csvs/Q3 top demand skills data scientist.csv
+query_output_csvs/Q4 top pay skills.csv
+query_output_csvs/Q5 optimal skills data scientist.csv
+sql_queries/sample.sql
+sql_queries/sample.sql
