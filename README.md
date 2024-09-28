@@ -21,3 +21,21 @@ For my deep dive into the job market, I harnessed the power of several key tools
 - **PostgreSQL:** The chosen database management system, ideal for handling the job postings data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
+# The Analysis
+Each query for this project aimed at investigating specific aspects of the job market.
+Here are some of the analysis obtained:
+
+### Total Number of Jobs Available
+The first example of analysis focuses on the jobs posted over the whole year of 2023.
+
+The insights came out as:
+
+! [Total Jobs] (assets\total_jobs.png)
+
+
+
+
+### 1. Top Paying Data Analyst Jobs
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on any locations. This query highlights the high paying oppurtunities in the field.
+![]
