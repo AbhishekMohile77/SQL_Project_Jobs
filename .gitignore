@@ -1,5 +1,6 @@
 /.vscode
 /csv_files
+/assets
 /__MACOSX
 extra/sample query chart.csv
 query_output_csvs/Q0 sample job counts.csv
@@ -10,4 +11,3 @@ query_output_csvs/Q4 top pay skills.csv
 query_output_csvs/Q5 optimal skills data scientist.csv
 sql_queries/sample.sql
 sql_queries/sample.sql
-/assets
